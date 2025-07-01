@@ -6,8 +6,6 @@
 
 -   I'm interested in software development
 
--   I’m currently learning about **system design**
-
 -   Reach me at **datran@student.42.fr**
 
 <h4 align="left">Connect with me:</h4>
